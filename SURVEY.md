@@ -68,14 +68,14 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     *. ? / & / Etc.
 
 ### Disability
-    Do you identify as having a disability as defined under the [Americans with Disabilities Act](https://adata.org/faq/what-definition-disability-under-ada)?
+    Do you identify as having a disability as defined by the [World Health Organization](http://www.who.int/topics/disabilities)?
     () Yes
         [] Physical
         [] Mental
         [] Emotional
         [] Cognitive
         [] Hearing
-        [] Vision
+        [] Visual impairment
         [] Other
     () No
     () Prefer not to answer
